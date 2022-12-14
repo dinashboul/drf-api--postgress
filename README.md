@@ -12,7 +12,9 @@ python manage.py runserver
 
 ## Tests
 
-no test
+* Test_books_model
+* Test_auth
+* Test_only_owner_can_delete
 
 # Install packages
 
@@ -20,7 +22,5 @@ no test
 * pip install django
 * pip install rest-freamework
 * pip install psycopg2
-
-
 
 ## PR
