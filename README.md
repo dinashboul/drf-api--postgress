@@ -24,3 +24,5 @@ python manage.py runserver
 * pip install psycopg2
 
 ## PR
+https://github.com/dinashboul/drf-api--postgress/pull/1
+
